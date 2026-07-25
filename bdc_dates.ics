@@ -6,55 +6,55 @@ SUMMARY:📅 ARCC Earnings Release
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260729
 DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
- m: 24.07.2026
+ m: 25.07.2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📅 BBDC Earnings Release
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260805
 DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
- m: 24.07.2026
+ m: 25.07.2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📅 OBDC Earnings Release
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260805
 DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
- m: 24.07.2026
+ m: 25.07.2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📅 CSWC Earnings Release
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260803
 DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
- m: 24.07.2026
+ m: 25.07.2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📅 GBDC Earnings Release
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260803
 DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
- m: 24.07.2026
+ m: 25.07.2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📅 HTGC Earnings Release
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260730
 DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
- m: 24.07.2026
+ m: 25.07.2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📅 MAIN Earnings Release
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260806
 DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
- m: 24.07.2026
+ m: 25.07.2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📅 TRIN Earnings Release
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260805
 DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
- m: 24.07.2026
+ m: 25.07.2026
 END:VEVENT
 END:VCALENDAR
