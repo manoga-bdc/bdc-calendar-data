@@ -50,4 +50,12 @@ DTEND;VALUE=DATE:20260805
 DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
  m: 31.07.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 HTGC Earnings Release
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261029
+UID:📅 HTGC Earnings Release_2026-10-29
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
+ m: 31.07.2026
+END:VEVENT
 END:VCALENDAR
