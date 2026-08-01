@@ -57,4 +57,60 @@ DTEND;VALUE=DATE:20260805
 DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
  m: 31.07.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 NN.AS Earnings Release
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260806
+UID:📅 NN.AS Earnings Release_2026-08-06
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
+ m: 01.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 ALV.DE Earnings Release
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260807
+UID:📅 ALV.DE Earnings Release_2026-08-07
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
+ m: 01.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 SHEL Earnings Release
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261029
+UID:📅 SHEL Earnings Release_2026-10-29
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
+ m: 01.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 LGEN.L Earnings Release
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260805
+UID:📅 LGEN.L Earnings Release_2026-08-05
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
+ m: 01.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 INGA.AS Earnings Release
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261029
+UID:📅 INGA.AS Earnings Release_2026-10-29
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
+ m: 01.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 TLX.DE Earnings Release
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260814
+UID:📅 TLX.DE Earnings Release_2026-08-14
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
+ m: 01.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 ASML Earnings Release
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261014
+UID:📅 ASML Earnings Release_2026-10-14
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
+ m: 01.08.2026
+END:VEVENT
 END:VCALENDAR
