@@ -22,4 +22,12 @@ DTEND;VALUE=DATE:20261005
 DESCRIPTION:Echter Auszahlungstag (Payout Date) laut Yahoo Finance.\nZahlu
  ng startet am: 2026-09-30\nAbfrage: 31.07.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💰 ASML Dividende Zahltag
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260810
+UID:💰 ASML Dividende Zahltag_2026-08-05
+DESCRIPTION:Echter Auszahlungstag (Payout Date) laut Yahoo Finance.\nZahlu
+ ng startet am: 2026-08-05\nAbfrage: 01.08.2026
+END:VEVENT
 END:VCALENDAR
