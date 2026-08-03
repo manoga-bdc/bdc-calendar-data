@@ -30,4 +30,28 @@ UID:💰 ASML Dividende Zahltag_2026-08-05
 DESCRIPTION:Echter Auszahlungstag (Payout Date) laut Yahoo Finance.\nZahlu
  ng startet am: 2026-08-05\nAbfrage: 01.08.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💰 ARCC Dividende Zahltag
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261005
+UID:💰 ARCC Dividende Zahltag_2026-09-30
+DESCRIPTION:Echter Auszahlungstag (Payout Date) laut Yahoo Finance.\nZahlu
+ ng startet am: 2026-09-30\nAbfrage: 03.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💰 HTGC Dividende Zahltag
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260823
+UID:💰 HTGC Dividende Zahltag_2026-08-18
+DESCRIPTION:Echter Auszahlungstag (Payout Date) laut Yahoo Finance.\nZahlu
+ ng startet am: 2026-08-18\nAbfrage: 03.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💰 SHEL Dividende Zahltag
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+UID:💰 SHEL Dividende Zahltag_2026-09-21
+DESCRIPTION:Echter Auszahlungstag (Payout Date) laut Yahoo Finance.\nZahlu
+ ng startet am: 2026-09-21\nAbfrage: 03.08.2026
+END:VEVENT
 END:VCALENDAR
