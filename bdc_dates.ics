@@ -113,4 +113,12 @@ UID:📅 ASML Earnings Release_2026-10-14
 DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
  m: 01.08.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 CSWC Earnings Release
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261102
+UID:📅 CSWC Earnings Release_2026-11-02
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance.\nAbfrage a
+ m: 05.08.2026
+END:VEVENT
 END:VCALENDAR
