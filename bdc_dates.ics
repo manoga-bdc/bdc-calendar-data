@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BDC Earnings Calendar//mxm.dk//
+BEGIN:VEVENT
+SUMMARY:📅 ARCC Earnings Release
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261028
+UID:📅 ARCC Earnings Release_2026-10-28
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
+ rektur).\nAbfrage am: 06.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 BBDC Earnings Release
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261106
+UID:📅 BBDC Earnings Release_2026-11-06
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
+ rektur).\nAbfrage am: 06.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 OBDC Earnings Release
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261105
+UID:📅 OBDC Earnings Release_2026-11-05
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
+ rektur).\nAbfrage am: 06.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 CSWC Earnings Release
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261103
+UID:📅 CSWC Earnings Release_2026-11-03
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
+ rektur).\nAbfrage am: 06.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 HTGC Earnings Release
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261030
+UID:📅 HTGC Earnings Release_2026-10-30
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
+ rektur).\nAbfrage am: 06.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 MAIN Earnings Release
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260807
+UID:📅 MAIN Earnings Release_2026-08-07
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
+ rektur).\nAbfrage am: 06.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 TRIN Earnings Release
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261105
+UID:📅 TRIN Earnings Release_2026-11-05
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
+ rektur).\nAbfrage am: 06.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 NN.AS Earnings Release
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260807
+UID:📅 NN.AS Earnings Release_2026-08-07
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
+ rektur).\nAbfrage am: 06.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 ALV.DE Earnings Release
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260808
+UID:📅 ALV.DE Earnings Release_2026-08-08
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
+ rektur).\nAbfrage am: 06.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 SHEL Earnings Release
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261030
+UID:📅 SHEL Earnings Release_2026-10-30
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
+ rektur).\nAbfrage am: 06.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 LGEN.L Earnings Release
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260806
+UID:📅 LGEN.L Earnings Release_2026-08-06
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
+ rektur).\nAbfrage am: 06.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 INGA.AS Earnings Release
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261030
+UID:📅 INGA.AS Earnings Release_2026-10-30
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
+ rektur).\nAbfrage am: 06.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 TLX.DE Earnings Release
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260815
+UID:📅 TLX.DE Earnings Release_2026-08-15
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
+ rektur).\nAbfrage am: 06.08.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 ASML Earnings Release
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+UID:📅 ASML Earnings Release_2026-10-15
+DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
+ rektur).\nAbfrage am: 06.08.2026
+END:VEVENT
+END:VCALENDAR
