@@ -113,4 +113,12 @@ UID:📅 ASML Earnings Release_2026-10-15
 DESCRIPTION:Offiziell angekündigter Termin laut Yahoo Finance (+1 Tag Kor
  rektur).\nAbfrage am: 06.08.2026
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📅 MAIN Earnings Release
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261106
+UID:📅 MAIN Earnings Release_2026-11-06
+DESCRIPTION:Termin-Quelle: Yahoo Finance (+1 Tag Korrektur).\nAbfrage am: 
+ 07.08.2026
+END:VEVENT
 END:VCALENDAR
