@@ -2,50 +2,50 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//BDC Dividend Calendar MultiDay//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:ARCC Dividende Zahltag
+SUMMARY:💰 ARCC Dividende Zahltag
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261005
-UID:ARCC Dividende Zahltag_2026-09-30
+UID:💰 ARCC Dividende Zahltag_2026-09-30
 DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
   startet am: 2026-09-30\nAbfrage: 07.08.2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSWC Dividende Zahltag
+SUMMARY:💰 CSWC Dividende Zahltag
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261005
-UID:CSWC Dividende Zahltag_2026-09-30
+UID:💰 CSWC Dividende Zahltag_2026-09-30
 DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
   startet am: 2026-09-30\nAbfrage: 07.08.2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HTGC Dividende Zahltag
+SUMMARY:💰 HTGC Dividende Zahltag
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260823
-UID:HTGC Dividende Zahltag_2026-08-18
+UID:💰 HTGC Dividende Zahltag_2026-08-18
 DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
   startet am: 2026-08-18\nAbfrage: 07.08.2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MAIN Dividende Zahltag
+SUMMARY:💰 MAIN Dividende Zahltag
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260920
-UID:MAIN Dividende Zahltag_2026-09-15
+UID:💰 MAIN Dividende Zahltag_2026-09-15
 DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
   startet am: 2026-09-15\nAbfrage: 07.08.2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TRIN Dividende Zahltag
+SUMMARY:💰 TRIN Dividende Zahltag
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261005
-UID:TRIN Dividende Zahltag_2026-09-30
+UID:💰 TRIN Dividende Zahltag_2026-09-30
 DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
   startet am: 2026-09-30\nAbfrage: 07.08.2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SHEL Dividende Zahltag
+SUMMARY:💰 SHEL Dividende Zahltag
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260926
-UID:SHEL Dividende Zahltag_2026-09-21
+UID:💰 SHEL Dividende Zahltag_2026-09-21
 DESCRIPTION:Auszahlungstag (Payout Date) (Quelle: Yahoo Finance).\nZahlung
   startet am: 2026-09-21\nAbfrage: 07.08.2026
 END:VEVENT
